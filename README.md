@@ -11,3 +11,9 @@ The module 2 folder contains the report and Jupyter Notebook from some diagnosti
 I analysed NHS appointment data to provide recommendations on optimising the capacity for GP appointments.
 Tools used: Python (Pandas,Numpy, Matplotlib,Seaborn)
 Grade: Merit
+
+The module 3 folder contains the report and Jupyter Notebook from predictive analytics done for the third project.
+I analysed customer and review data for a games company to provide insights and recommendations for driving sales growth.
+I learned multiple linear regression, decision trees and random forests, k-means clustering,NLP and sentiment analysis.
+The module also included an introduction to R and ggplot.
+Tools used: Python (scikit-learn, statsmodels), R (ggplot)
